@@ -1,0 +1,29 @@
+#Page1 .back{
+  background: skyblue;
+  font-family: verdana; color: #fff;
+  padding: 30px;
+}
+
+#Page1 h1, #Page2 h1, #Page3 h1{
+  font-size: 58px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+#Page1 p{
+  font-size: 26px;
+  text-align: center;
+}
+
+#Page2 .back{
+  background: purple;
+  font-family: verdana; color: #fff;
+  padding: 30px;
+}
+
+#Page3 .back{
+  background: red;
+  font-family: verdana; color: #fff;
+  padding: 30px;
+}
